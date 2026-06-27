@@ -10,3 +10,8 @@ This is a simple text editor app made using Python
 -create new file
 -save a file
 -open a file
+
+
+##Technologies used
+-Python
+-Tkinter
