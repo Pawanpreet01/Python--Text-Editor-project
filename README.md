@@ -6,7 +6,7 @@ This is a simple text editor app made using Python
 
 ##Screenshot
 
-![Text Editor](Screenshot 2026-06-27 134958.png)
+![Text Editor](Screenshot/Screenshot 2026-06-27 134958.png)
 
 ##Features
 
@@ -17,7 +17,7 @@ This is a simple text editor app made using Python
 
 ##Screenshot
 
-![text editor](Screenshot 2026-06-27 135140.png)
+![text editor](Screenshot/Screenshot 2026-06-27 135140.png)
 
 
 ##Technologies used
